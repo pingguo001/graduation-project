@@ -1,0 +1,98 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - CocoaAsyncSocket (7.6.2)
+  - CocoaHTTPServer (2.3):
+    - CocoaAsyncSocket
+    - CocoaLumberjack
+  - CocoaLumberjack (3.3.0):
+    - CocoaLumberjack/Default (= 3.3.0)
+    - CocoaLumberjack/Extensions (= 3.3.0)
+  - CocoaLumberjack/Default (3.3.0)
+  - CocoaLumberjack/Extensions (3.3.0):
+    - CocoaLumberjack/Default
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - Google-Mobile-Ads-SDK (7.26.0)
+  - GTMBase64 (1.0.0)
+  - JCore (1.1.6)
+  - JPush (3.0.7):
+    - JCore (~> 1.1.6)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.0.0)
+  - MJExtension (3.0.13)
+  - RNCryptor-objc (3.0.5)
+  - RongCloudIM/IMKit (2.8.21):
+    - RongCloudIM/IMLib
+  - RongCloudIM/IMLib (2.8.21)
+  - RTRootNavigationController (0.6.4):
+    - RTRootNavigationController/Core (= 0.6.4)
+  - RTRootNavigationController/Core (0.6.4)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SVProgressHUD (2.2.2)
+  - UICKeyChainStore (2.1.1)
+  - UITableView+FDTemplateLayoutCell (1.6)
+  - XLPhotoBrowser+CoderXL (1.1.0):
+    - SDWebImage (~> 3.8.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CocoaHTTPServer
+  - FMDB
+  - Google-Mobile-Ads-SDK
+  - GTMBase64 (~> 1.0.0)
+  - JPush
+  - Masonry
+  - MBProgressHUD (~> 1.0.0)
+  - MJExtension
+  - RNCryptor-objc
+  - RongCloudIM/IMKit (~> 2.8.3)
+  - RongCloudIM/IMLib (~> 2.8.3)
+  - RTRootNavigationController
+  - SDWebImage (~> 3.8.2)
+  - SVProgressHUD
+  - UICKeyChainStore (~> 2.1.0)
+  - UITableView+FDTemplateLayoutCell
+  - XLPhotoBrowser+CoderXL
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CocoaAsyncSocket: 3541e024f48c54b251638ef72d51dd42808de932
+  CocoaHTTPServer: 5624681fc3473d43b18202f635f9b3abb013b530
+  CocoaLumberjack: 3c8c74683302f9012bb168e1c4b7ae3c0b558431
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  Google-Mobile-Ads-SDK: 22d4a6fe18d526adcc12a86d8cc2d53872700966
+  GTMBase64: 0da7372e95f5171f3f652db38cde6716f8eb5e24
+  JCore: 18fc8725124f26e55625eaf224659b3a999dcf63
+  JPush: 111b79b8a0169ab8fd4c486dac3ed166ed69293e
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  RNCryptor-objc: a65b15493de05dda4af0f392c70372b7a5625aab
+  RongCloudIM: 3569886ea3070c0fae613bf5ea91422ee141e24e
+  RTRootNavigationController: 4c969c21fc3e61ea3056e3f4346578569ed79b09
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  UICKeyChainStore: 239558492fa260531a0774cfc611ea83a6eaff3a
+  UITableView+FDTemplateLayoutCell: 5c949b4a5059c404b442926c0e80f81d10a2d66f
+  XLPhotoBrowser+CoderXL: 8eb15a7155ff1c837459d0f060c14e91011fb8b5
+
+PODFILE CHECKSUM: c9017e5a2bf7d9ed62f02784e2fd8a3b206203cc
+
+COCOAPODS: 1.3.0.beta.2
